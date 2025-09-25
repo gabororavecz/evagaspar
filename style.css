@@ -69,7 +69,8 @@ a:hover {
 /* HAMBURGER MENU */
 
 #hamburger-nav {
-  display: none;
+  display: none;     
+  /* background-color: black;                    */
 }
 
 .hamburger-menu {
