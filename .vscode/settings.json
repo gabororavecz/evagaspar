@@ -3,5 +3,8 @@
         "origin",
         "upstream",
         "ok"
-    ]
+    ],
+    "liveServer.settings.CustomBrowser": "chrome"
+
+,
 }
