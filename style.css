@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  
 }
 
 html {
@@ -76,6 +77,7 @@ a:hover {
 .hamburger-menu {
   position: relative;
   display: inline-block;
+  
 }
 
 .hamburger-icon {
