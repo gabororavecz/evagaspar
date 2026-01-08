@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+
   
 }
 
@@ -38,6 +39,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
+  background-color: #BDB96A;
 }
 
 .nav-links {
@@ -71,7 +73,7 @@ a:hover {
 
 #hamburger-nav {
   display: none;     
-  /* background-color: black;                    */
+  background-color: #BDB96A;                   
 }
 
 .hamburger-menu {
@@ -157,6 +159,7 @@ section {
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
+  
 }
 
 .section-container {
@@ -170,6 +173,7 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  background-color: #FDFBD4;
 }
 
 .section__pic-container {
