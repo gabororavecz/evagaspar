@@ -154,17 +154,19 @@ a:hover {
 /* SECTIONS */
 
 section {
+  margin: 0;
   padding-top: 4vh;
-  height: 96vh;
-  margin: 0 10rem;
-  box-sizing: border-box;
-  min-height: fit-content;
-  
+  background-color: #F8D8B4;
 }
 
 .section-container {
+  max-width: 1200px;
+  margin: 0 auto;        /* centers content */
+  padding: 0 10rem;     /* horizontal spacing */
   display: flex;
 }
+
+
 
 /* PROFILE SECTION */
 
