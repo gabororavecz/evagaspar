@@ -38,14 +38,14 @@ nav,
 nav {
   justify-content: space-around;
   align-items: center;
-  height: 17vh;
+  height: 10vh;
   background-color: #BDB96A;
 }
 
 .nav-links {
   gap: 2rem;
   list-style: none;
-  font-size: 1.5rem;
+  font-size: 1rem;
 }
 
 a {
@@ -62,7 +62,7 @@ a:hover {
 }
 
 .logo {
-  font-size: 2rem;
+  font-size: 1.7rem;
 }
 
 .logo:hover {
